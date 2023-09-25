@@ -14,18 +14,9 @@ Low, medium, and high-fidelity wireframes and prototypes.
   - Looks and functions very closely to how the final product will.
 ***
 ## Tools
-<i>Google Draw:</i>
 <ul style="list-style-type:circle">
-<li>https://docs.google.com/drawings/</li>
+  <li><i>Google Draw:</i> https://docs.google.com/drawings/</li>
+  <li><i>Draw.io:</i> https://app.diagrams.net/</li>
+  <li><i>Figma:</i> https://www.figma.com/</li>
 </ul>
-<br>
-<i>Draw.io:</i>
-<ul style="list-style-type:circle">
-<li>https://app.diagrams.net/</li>
-</ul>
-<br>
-<i>Figma:</i>
-<ul style="list-style-type:circle">
-<li>https://www.figma.com/</li>
-</ul>
-<br>
+
