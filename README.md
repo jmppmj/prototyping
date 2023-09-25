@@ -1,2 +1,2 @@
 # wireframes
-Using various popular tools to wireframe professionally. 
+Low, medium and high-fidelity wireframes and prototypes.
