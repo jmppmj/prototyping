@@ -1,4 +1,4 @@
-# wireframes and prototypes
+# Wireframes and Prototypes
 Low, medium, and high-fidelity wireframes and prototypes.
 ---
 <i>Google Draw:</i>
