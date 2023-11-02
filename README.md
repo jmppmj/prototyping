@@ -32,6 +32,8 @@ Low, medium, and high-fidelity wireframes and prototypes.
 ## Audio & Video
 <ul style="list-style-type:circle">
   <li><i>Clipchamp:</i> https://clipchamp.com/</li>
+  Video editing platform that offers easy-to-use tools for creating professional-looking videos.
   <li><i>Streamlabs:</i> https://streamlabs.com/</li>
+  Streamlabs is a live streaming software, but can also be used for desktop audio & video recording.
 </ul>
 
