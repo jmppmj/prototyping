@@ -17,6 +17,10 @@ Low, medium, and high-fidelity wireframes and prototypes.
 <ul style="list-style-type:circle">
   <li><i>Google Draw:</i> https://docs.google.com/drawings/</li>
   <li><i>Draw.io:</i> https://app.diagrams.net/</li>
+  <li><i>Balsamiq:</i> https://balsamiq.com/</li>
   <li><i>Figma:</i> https://www.figma.com/</li>
+  <li><i>Axure:</i> https://www.axure.com/</li>
+  Axure - offers very high fidelity for interaction design, including scripting events and user input/output to provide realistic, functionally interactive prototypes.  
+  <li><i>Framer:</i> https://www.framer.com/</li>
 </ul>
 
