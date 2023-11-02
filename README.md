@@ -16,11 +16,16 @@ Low, medium, and high-fidelity wireframes and prototypes.
 ## Tools
 <ul style="list-style-type:circle">
   <li><i>Google Draw:</i> https://docs.google.com/drawings/</li>
+  Allows users to create simple, collaborative diagrams and visual content directly within the Google ecosystem, making it unique for its seamless integration with other Google services.
   <li><i>Draw.io:</i> https://app.diagrams.net/</li>
+  A free, browser-based diagramming tool that offers a wide range of templates and is known for its ease of use and integration with various cloud storage services.
   <li><i>Balsamiq:</i> https://balsamiq.com/</li>
+  Unique for its hand-drawn, sketch-like interface which aims to simplify the wireframing process and facilitate rapid idea generation without focusing on design details.
   <li><i>Figma:</i> https://www.figma.com/</li>
+  A collaborative, online design tool that allows real-time co-editing, making it optimal for remote teams and ensuring consistency across design projects.
   <li><i>Axure:</i> https://www.axure.com/</li>
-  Axure - offers very high fidelity for interaction design, including scripting events and user input/output to provide realistic, functionally interactive prototypes.  
+  Offers very high fidelity for interaction design, including scripting events and user input/output to provide realistic, functionally interactive prototypes.  
   <li><i>Framer:</i> https://www.framer.com/</li>
+  Distinct for its emphasis on interactive design and prototyping, offering a code-backed environment that allows designers to create more dynamic and realistic user interfaces and experiences.
 </ul>
 
