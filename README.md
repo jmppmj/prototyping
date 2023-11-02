@@ -32,6 +32,6 @@ Low, medium, and high-fidelity wireframes and prototypes.
 ## Audio & Video
 <ul style="list-style-type:circle">
   <li><i>Clipchamp:</i> https://clipchamp.com/</li>
-  <li><i>Streamlabs</i> https://streamlabs.com/</li>
+  <li><i>Streamlabs:</i> https://streamlabs.com/</li>
 </ul>
 
