@@ -13,7 +13,7 @@ Low, medium, and high-fidelity wireframes and prototypes.
   - Detailed and interactive representation of the final product.
   - Looks and functions very closely to how the final product will.
 ***
-## Tools
+## Wireframing & Prototyping Tools
 <ul style="list-style-type:circle">
   <li><i>Google Draw:</i> https://docs.google.com/drawings/</li>
   Allows users to create simple, collaborative diagrams and visual content directly within the Google ecosystem, making it unique for its seamless integration with other Google services.
@@ -29,7 +29,7 @@ Low, medium, and high-fidelity wireframes and prototypes.
   Distinct for its emphasis on interactive design and prototyping, offering a code-backed environment that allows designers to create more dynamic and realistic user interfaces and experiences.
 </ul>
 
-## Audio & Video
+## Audio & Video Tools
 <ul style="list-style-type:circle">
   <li><i>Clipchamp:</i> https://clipchamp.com/</li>
   Video editing platform that offers easy-to-use tools for creating professional-looking videos.
