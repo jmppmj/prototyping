@@ -29,7 +29,7 @@ Low, medium, and high-fidelity wireframes and prototypes.
   A collaborative, online design tool that allows real-time co-editing, making it optimal for remote teams and ensuring consistency across design projects.
 </ul>
 
-  __NOTE:__ Use [Stark Accesibility Tools](https://www.figma.com/community/plugin/732603254453395948/stark-accessibility-tools) with Figma to ensures designs are inclusive and compliant with accessibility standards, enhancing user experience for everyone, regardless of ability.
+__NOTE:__ Use [Stark Accesibility Tools](https://www.figma.com/community/plugin/732603254453395948/stark-accessibility-tools) with Figma to ensures designs are inclusive and compliant with accessibility standards, enhancing user experience for everyone, regardless of ability.
 
 ## Audio & Video Tools
 <ul style="list-style-type:circle">
